@@ -1,0 +1,17 @@
+# Build output
+/app/build/
+/build/
+.gradle/
+
+# Sandbox-local scratch dirs (not part of the project)
+.home/
+.tmp/
+.android/
+android-sdk/
+.wrapgen/
+
+# Local SDK path (machine-specific)
+local.properties
+
+# Keep the built APK tracked at the repo root for easy download
+!PollAlert-debug.apk
