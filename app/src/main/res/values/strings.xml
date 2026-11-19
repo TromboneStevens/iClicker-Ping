@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Poll Alert</string>
+    <string name="app_tagline">Rings when an iClicker poll opens so you never miss the window. You tap Join yourself.</string>
+    <string name="accessibility_service_label">Poll Alert watcher</string>
+    <string name="accessibility_service_description">Watches for the iClicker poll popup and plays a sound/vibration so you can tap Join. It does not tap anything for you.</string>
+
+    <string name="open_accessibility_settings">Open accessibility settings</string>
+    <string name="play_sound">Play sound</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="test_alert">Test alert</string>
+
+    <string name="status_on">✅ Watching for polls</string>
+    <string name="status_off">⚠️ Not active — tap below and enable \"Poll Alert watcher\"</string>
+
+    <string name="help_text">Setup: tap \"Open accessibility settings\", find \"Poll Alert watcher\", and turn it on. Keep the iClicker app open during class. When a poll appears, your phone will ring/vibrate — look up and tap Join.</string>
+</resources>
